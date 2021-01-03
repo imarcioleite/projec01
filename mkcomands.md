@@ -26,7 +26,7 @@ lista de itens
 * Item 2
 * Item 3
 
-1. Item 1
+1. Item 1	
 2. Item 2
 3. Item 3
 
@@ -49,15 +49,15 @@ este é um código php```
 
 especificar tipo de linguagem
 
-~~~javascript
+~~~ javascript
 Esta é uma linha de código em Javascript.
 ~~~
 
-~~~php
+~~~ php
 Esta é uma linha de código em PHP.
 ~~~
 
-~~~html
+~~~ html
 Esta é uma linha de código em HTML.
 ~~~
 
