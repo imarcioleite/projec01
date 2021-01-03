@@ -52,7 +52,7 @@ pasta/(+ asteristico)<br>
 ### Revertendo sem perder o código
 git revert --no-edit + o codigo do commit que deu errado que vc quer reverter para não perder o codigo que ta funcionando.
 ### Clone
-git clone + a url do projeto que vc quer clonar
+git clone + a url(html) do projeto que vc quer clonar
 ### Fork
 1. No github vc clica em fork<br>
 2. O gitrub criara um branch do fork (projeto)<br>
