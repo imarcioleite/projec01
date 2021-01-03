@@ -63,4 +63,10 @@ git clone + a url(html) do projeto que vc quer clonar
 7. git push origen 5.x, no caso servidor (origem), branch(5.x)<br> 
 8. No meu github no projeto alterado clicar em "New pull request"<br>
 9. Verificar se ta tudo certo, clicar em "Create pull request"<br>
+### Mesclando Projetos
+Vc tem que esta na **master** e mandar o comando de mesclar o projeto<br>
+git merge teste (no caso teste e a sua **branch** se juntando a master)<br>
+**OBS** caso tenha conflito existe um menu de opções que o git faz para corrigir o comflito
+
+
 
