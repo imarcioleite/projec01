@@ -1,0 +1,11 @@
+Criando a lane page
+
+fonte 
+colocada no style.css via google fontes com o @import
+
+icones
+font-awesone tb colocaso no arquivo style.css
+
+favicom
+criação no site favicon.io
+arquivo de configuração do favicon site.webmanifest.json

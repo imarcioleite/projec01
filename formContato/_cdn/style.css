@@ -1,0 +1,71 @@
+/* boot */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* body */
+body {
+  background-color: #5f7c8a;
+}
+form {
+  background-color: white;
+  max-width: 500px; /*largura */
+  width: 70%;
+  padding: 20px;
+  position: absolute; /* possisão central com position, left, top, transform */
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%); /* centralizando na vertical e horizontal */
+  /* OBS a partir do position centraliza em qualquer tamanho de tela */
+}
+form h3 {
+  text-align: center;
+  color: #5f7c8a;
+  font-family: "Courier New", Courier, monospace;
+}
+form input[type="text"],
+form input[type="password"] {
+  width: 100%;
+  height: 45px;
+  border: 1px solid #ccc;
+  padding-left: 10px;
+  margin: 10px 0;
+}
+form input[type="text"],
+form input[type="password"]:focus {
+  outline: 0;
+}
+form input[type="submit"] {
+  width: 100%;
+  height: 30px;
+  cursor: pointer;
+  background: #5f7c8a;
+  color: white;
+  border: 0;
+  border-radius: 20px;
+  transition: 1s; /* tempo de efeito no hover */
+}
+form input[type="submit"]:hover {
+  background-color: #4a5f6a;
+}
+
+.socialMedia h4 {
+  text-align: center;
+  color: #5f7c8a;
+  font-family: "Courier New", Courier, monospace;
+  margin: 20px;
+}
+
+.socialMedia_p {
+  font-family: "Courier New", Courier, monospace;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.socialMedia_p,
+.fab {
+  color: #5f7c8a;
+  font-size: 1.4em;
+}
