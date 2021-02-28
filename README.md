@@ -1,2 +1,2 @@
-# projec01
-projeto inicial
+# project
+projetos de estudos 
