@@ -8,10 +8,5 @@ font-awesone tb colocaso no arquivo style.css
 
 favicom
 criação no site favicon.io
-arquivo de configuração do favicon site.webmanifest.json.
-colocação do codigo abaixo, que esta no local da cração do favicon
-acerta a pasta de onde esta os icones no (link)
-acertar o arquivo site.webmanifest
-
-configurando o header
-OBS site de gradients cores uigradients.com
+arquivo de configuração do favicon site.webmanifest.json
+colocação dos codigos que estão abaixo da criação do favicon
