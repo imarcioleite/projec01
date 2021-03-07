@@ -1,0 +1,16 @@
+*{
+    padding: 0 auto;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-size: 1em;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+body{
+    background: #121214;
+}
+
+.ds_none{
+    display: none !important;
+}
