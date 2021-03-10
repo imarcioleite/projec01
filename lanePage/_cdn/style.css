@@ -252,11 +252,13 @@ header {
   background-color: #a044ff;
 }
 
+/* conhecimentos */
+
 .conhecimentos {
   display: grid;
   grid-template-columns: repeat(16, 1fr);
   grid-template-rows: repeat(6, 6rem);
-  row-gap: 0.5rem;
+  row-gap: 2.5rem;
 }
 
 .conhecimento:nth-child(1) {
@@ -290,7 +292,7 @@ header {
 }
 
 .sessao-conhecimento {
-  background-color: f5f5f5;
+  background-color: #f5f5f5;
 }
 
 .sessao-header {
