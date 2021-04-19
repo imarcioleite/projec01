@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack serve",
+    "start": "webpack",
     "build": "cross-env NODE_ENV=production webpack"
   },
   "keywords": [],
