@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "gulp",
+    "production": "gulp --production"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-preset-env": "^1.7.0",
     "font-awesome": "^4.7.0",
@@ -20,6 +21,7 @@
     "gulp-sass": "^4.1.0",
     "gulp-uglify": "^3.0.2",
     "gulp-uglifycss": "^1.1.0",
-    "gulp-watch": "^5.0.1"
+    "gulp-watch": "^4.2.4",
+    "gulp-webserver": "^0.1.0"
   }
 }
