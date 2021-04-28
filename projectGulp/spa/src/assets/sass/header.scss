@@ -1,0 +1,84 @@
+.header-full {
+  height: 500px;
+  background-image: url("assets/img/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  object-fit: cover;
+  border-bottom: solid 3px rgb(55, 115, 228);
+  box-sizing: content-box;
+}
+
+.header-logo {
+  display: inline-block;
+}
+.header-menu {
+  height: 80px;
+  float: right;
+  margin: 30px 50px;
+}
+.header-menu span {
+  color: #fff;
+  font-size: 1.7em;
+  font-weight: 900;
+}
+.header-menu ul {
+  margin: 0;
+  padding: 0;
+}
+.header-menu li {
+  display: inline-block;
+}
+.header-menu a {
+  text-decoration: none;
+  color: rgb(126, 126, 126);
+  font-size: 1.4em;
+  padding: 10px;
+  font-weight: 400;
+}
+.header-menu a:hover {
+  color: rgb(238, 255, 0);
+  font-size: 1.5em;
+  font-weight: 700;
+}
+.header-title h1 {
+  color: #fff;
+  font-weight: 400;
+  padding: 0 0 0 100px;
+  text-shadow: 0.2rem 0.3rem 10px rgba(0, 0, 0, 0.8);
+}
+.header-title p {
+  color: #fff;
+  padding: 0 0 0 100px;
+  font-size: 1.4em;
+}
+.header-title span {
+  color: rgb(238, 255, 0);
+  font-weight: 700;
+}
+.header-title a button {
+  padding: 10px 25px;
+  font-size: 1.3em;
+  font-weight: 700;
+  color: #000;
+  margin: 15px 100px;
+  border: 0;
+  border-radius: 10px;
+  background: rgb(175, 176, 255);
+  background: linear-gradient(
+    90deg,
+    rgba(142, 144, 253, 0.911) 0%,
+    rgba(143, 165, 35, 0.93) 50%
+  );
+  cursor: pointer;
+}
+.header-title a button:hover {
+  color: #000;
+  font-size: 1.3em;
+  background: rgb(175, 176, 255);
+  background: linear-gradient(
+    90deg,
+    rgba(175, 176, 255, 0.9108018207282913) 0%,
+    rgba(209, 237, 75, 0.9304096638655462) 50%
+  );
+}
