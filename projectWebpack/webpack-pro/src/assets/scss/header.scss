@@ -5,17 +5,18 @@
   background-size: cover;
   background-position: center;
   object-fit: cover;
-  border-bottom: solid 3px rgb(55, 115, 228);
+  border-bottom: solid 3px rgb(238, 255, 0);
   box-sizing: content-box;
 }
 
 .header-logo {
   display: inline-block;
+  padding: 0 80px;
 }
 .header-menu {
   height: 80px;
   float: right;
-  margin: 30px 50px;
+  margin: 30px 100px;
 }
 .header-menu span {
   color: #fff;
