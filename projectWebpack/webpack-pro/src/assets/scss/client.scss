@@ -1,6 +1,6 @@
 .main-clients {
-  background-color: #121414;
-  border-bottom: solid 3px rgb(238, 255, 0);
+  background-color: $cor-bg-black;
+  border-bottom: solid 3px $cor-yellow-1;
 }
 .main-clients img {
   margin-top: 30px;
@@ -9,7 +9,7 @@
   margin-bottom: 10px;
 }
 .main-clients-title {
-  color: #fff;
+  color: $cor-white-1;
   display: block;
   margin: 0px 40px;
   padding: 0 auto;
@@ -23,5 +23,5 @@
 .main-clients-all {
   height: auto;
   margin: 0 auto;
-  background-color: #121414;
+  background-color: $cor-bg-black;
 }

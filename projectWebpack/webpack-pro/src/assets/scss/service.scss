@@ -12,11 +12,11 @@
 .main-service-box-description {
   width: 500px;
   height: 260px;
-  background-color: #fff;
+  background-color: $cor-white-1;
   margin: 10px 10px;
   padding: 10px 15px;
-  color: #000;
+  color: $cor-black-1;
   border-radius: 10px;
-  box-shadow: 5px 2px 5px 2px #000;
-  border-left: 3px solid #121414;
+  box-shadow: 5px 2px 5px 2px $cor-black-1;
+  border-left: 3px solid $cor-black-1;
 }
