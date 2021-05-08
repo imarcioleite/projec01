@@ -1,0 +1,19 @@
+.main-contact {
+  width: 1050px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.main-contact h2 {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 40px;
+}
+.main-contact-contact {
+  margin: 0 auto;
+  padding: 30px 140px 30px 50px;
+  display: inline-block;
+  text-align: center;
+}
